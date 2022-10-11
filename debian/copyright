@@ -1,0 +1,24 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: String-Format
+Upstream-Contact: Slaven Rezić <slaven@rezic.de>
+Source: https://metacpan.org/release/String-Format
+
+Files: *
+Copyright: 2002-2009, Darren Chamberlain <darren@cpan.org>
+License: GPL-2
+
+Files: debian/*
+Copyright: 2006-2008, Stephen Quinney <sjq@debian.org>
+ 2010, Jonathan Yu <jawnsy@cpan.org>
+ 2013, Florian Schlichting <fsfs@debian.org>
+License: GPL-2
+Comment: it is assumed the aforementioned authors provided their
+ packaging work under the same terms as upstream.
+
+License: GPL-2
+ This program is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, version 2.
+ .
+ On Debian systems, the complete text of version 2 of the GNU General
+ Public License can be found in `/usr/share/common-licenses/GPL-2'
